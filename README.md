@@ -4,6 +4,10 @@ It also allows option to buy a subscription, with which you can add images to yo
 
 Replace <"YOUR KEYCLOAK CLIENT SECRET KEY"> and <"YOUR STRIPE API KEY">, with YOUR OWN KEYs in a string format without angular brackets.
 
+Start your keycloak server before executing the main file 'server.py'
+
+server.py : it is the main file of the project, execute this file and open http://localhost:5000/ in the browser to use the webapplication.
+
 You can run virtual enviornment using python commands, or use global module scopr.
 
 This was developed using virtual enviornment (venv) in linux OS.
